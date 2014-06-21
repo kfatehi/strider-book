@@ -104,8 +104,7 @@ Public Projects
 
 Let the world at large see your project status dashboard!  Public projects may
 be browsed by anonymous users, but not triggered nor configured. Great for Open
-Source projects. See Strider's public CI dashboard at
-https://public-ci.stridercd.com.
+Source projects.
 
 .. image:: _static/public-project.png
 
